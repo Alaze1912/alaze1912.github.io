@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Inccorpco"
 date:   2017-01-20 11:07:39 -0500
-categories: jekyll update
+categories: welcome
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Welcome to Inccorpco, a free photo sharing website. You can use this to store or create photo albums, create stock photos for public use, and edit your photos. 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
 
 Jekyll also offers powerful support for code snippets:
 
