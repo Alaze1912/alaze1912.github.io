@@ -8,10 +8,7 @@
 # Site settings
 title: Inccorpco
 email: Null
-description: > # this means to ignore newlines until "baseurl:"
-Welcome to Inccorpco, a free photo sharing website. You can use this to
-store or create photo albums, create stock photos for public use, and edit
-your photos. 
+description: > Welcome to Inccorpco, a free photo sharing website. You can use this to store or create photo albums, create stock photos for public use, and edit your photos. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: Null
