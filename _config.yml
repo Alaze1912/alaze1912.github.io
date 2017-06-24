@@ -6,11 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Inccorpco
-email: Null
-description: > "Welcome to Inccorpco, a free photo sharing website. You can use this to store or create photo albums, create stock photos for public use, and edit your photos." 
+title: "Inccorpco"
+email: "Justingelli11@gmail.com"
+description: "Welcome to Inccorpco, a free photo sharing website. You can use this to store or create photo albums, create stock photos for public use, and edit your photos." 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "inccorpco.net" # the base hostname & protocol for your site
 twitter_username: Null
 github_username:  Null
 
