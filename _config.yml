@@ -9,7 +9,7 @@
 title: "Inccorpco"
 email: "Justingelli11@gmail.com"
 description: "Welcome to Inccorpco, a free photo sharing website. You can use this to store or create photo albums, create stock photos for public use, and edit your photos." 
-baseurl: "/home" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "inccorpco.net" # the base hostname & protocol for your site
 twitter_username: Null
 github_username:  Null
